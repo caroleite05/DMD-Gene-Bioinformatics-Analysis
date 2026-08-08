@@ -4,11 +4,7 @@ This project focuses on the DMD gene, which encodes dystrophin, a protein essent
 
 The work explores homologous protein sequences and their evolutionary relationships through phylogenetic analysis, providing a broader understanding of the evolutionary context of dystrophin.
 
-## Project Website
-
-The complete analysis, methodology, results and additional information are available on the project website:
-
-[Visit the project website]()
+<br>
 
 ## Objectives
 - Explore homologous protein sequences related to DMD.
